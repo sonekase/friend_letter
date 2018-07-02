@@ -1,0 +1,9 @@
+/Users/anousonekaseumsouk/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.deps.json
+/Users/anousonekaseumsouk/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.json
+/Users/anousonekaseumsouk/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.dev.json
+/Users/anousonekaseumsouk/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.csproj.CoreCompileInputs.cache
+/Users/anousonekaseumsouk/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.AssemblyInfo.cs
+/Users/anousonekaseumsouk/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.dll
+/Users/anousonekaseumsouk/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/anousonekaseumsouk/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.dll
+/Users/anousonekaseumsouk/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.pdb
