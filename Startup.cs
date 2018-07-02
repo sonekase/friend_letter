@@ -25,6 +25,7 @@ namespace FriendLetter
 
         public void Configure(IApplicationBuilder app)
         {
+            app.UseDeveloperExceptionPage();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -36,14 +37,5 @@ namespace FriendLetter
                 await context.Response.WriteAsync("Hello World!");
             });
         }
-        //new code//
-        public void Configure(IApplicationBuilder app)
-        {
-            app.UseDeveloperExceptionPage();
-        }
-
-
-
-
     }
 }

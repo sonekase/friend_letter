@@ -26,7 +26,7 @@ namespace FriendLetter.Controllers
         {
           return View();
         }
-        // This did not open http://localhost:5004/greeting_card?sender=Jane&recipient=Jessica //
+      
         [Route("/greeting_card")]
         public ActionResult GreetingCard()
         {
