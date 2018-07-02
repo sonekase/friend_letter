@@ -26,13 +26,14 @@ namespace FriendLetter.Controllers
         {
           return View();
         }
-      
+
         [Route("/greeting_card")]
         public ActionResult GreetingCard()
         {
             LetterVariable myLetterVariable = new LetterVariable();
             myLetterVariable.SetRecipient(Request.Query["recipient"]);
             myLetterVariable.SetSender(Request.Query["sender"]);
+            myLetterVariable.SetPlace(Request.Query["place"]);
             return View("Hello", myLetterVariable);
         }
     }

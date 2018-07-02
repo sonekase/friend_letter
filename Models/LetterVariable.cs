@@ -4,6 +4,7 @@ namespace FriendLetter.Models
   {
     private string _recipient;
     private string _sender;
+    private string _place;
 
     public string GetRecipient()
     {
@@ -20,9 +21,18 @@ namespace FriendLetter.Models
       return _sender;
     }
 
-  public void SetSender(string newSender)
+    public void SetSender(string newSender)
     {
       _sender = newSender;
+    }
+    public string GetPlace()
+    {
+      return _place;
+    }
+
+    public void SetPlace(string newPlace)
+    {
+      _place = newPlace;
     }
   }
 }
